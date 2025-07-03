@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secret-lover/static/css/main.9834b354.css",
+    "main.js": "/secret-lover/static/js/main.2d0227d8.js",
+    "static/js/453.12d58832.chunk.js": "/secret-lover/static/js/453.12d58832.chunk.js",
+    "index.html": "/secret-lover/index.html",
+    "main.9834b354.css.map": "/secret-lover/static/css/main.9834b354.css.map",
+    "main.2d0227d8.js.map": "/secret-lover/static/js/main.2d0227d8.js.map",
+    "453.12d58832.chunk.js.map": "/secret-lover/static/js/453.12d58832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9834b354.css",
+    "static/js/main.2d0227d8.js"
+  ]
+}
